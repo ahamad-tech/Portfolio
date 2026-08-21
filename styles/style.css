@@ -690,6 +690,10 @@ section {
     background: linear-gradient(135deg, #333, #24292e);
 }
 
+.skill-icon-php {
+    background: linear-gradient(135deg, #777BB4, #4F5B93);
+}
+
 .skill-icon-react {
     background: linear-gradient(135deg, #61dafb, #20232a);
 }
