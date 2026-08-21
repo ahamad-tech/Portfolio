@@ -785,6 +785,10 @@ section {
     background: linear-gradient(90deg, #333, #24292e);
 }
 
+.skill-progress-php {
+    background: linear-gradient(90deg, #333, #24292e);
+}
+
 .skill-progress-react {
     background: linear-gradient(90deg, #61dafb, #20232a);
 }
